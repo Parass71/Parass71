@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parass71
-- 👀 I’m a Frontend Developer
-- 🌏 I'm Based in India
-- 🌱 I’m currently working on most of the Frontend Technologies
+- 👀 Frontend Developer
+- 🌏 Based in India
+- 🌱 Currently working on most of the Frontend Techstack
 - 💞️ parass71@gmail.com | +91-8699486546
 - 📫 https://www.upwork.com/freelancers/~01ac29b5ea821df9d5
 
