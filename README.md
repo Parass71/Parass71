@@ -1,5 +1,5 @@
 👋 Hi, I’m @Parass71  
-👀 AI Native Frontend Developer  
+👀 AI Enabled Frontend Developer  
 🌏 Based in India  
 🌱 Currently working on most of the Frontend Techstack  
 💞️ parass71@gmail.com | +91-8699486546  
